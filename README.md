@@ -1,2 +1,5 @@
 # test
-starting to github
+## starting to github
+### I am learning Markdown syntax and github
+
+
